@@ -3,6 +3,7 @@
 * [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
 * [tootfaver](https://github.com/f-person/tootfaver) - Mastodon bot which favourites new toots from local timeline in real-time
 * [bfj](https://github.com/f-person/bfj) - Generate `bson` tags for Go structs based on already existing `json` tags
+* [dotfiles](https://github.com/f-person/dotfiles) - My configuration files
 
 ### Neovim plugins
 * [Pubspec Assist](https://github.com/f-person/pubspec-assist-nvim) - Easily add dependencies to your Dart / Flutter project without leaving Neovim
