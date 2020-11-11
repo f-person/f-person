@@ -4,7 +4,7 @@
 ### Neovim plugins
 * [Pubspec Assist](https://github.com/f-person/pubspec-assist-nvim) - Easily add dependencies to your Dart / Flutter project without leaving Neovim
 * [nvim-sort-dart-imports](https://github.com/f-person/nvim-sort-dart-imports) - Sort Dart imports in an organized way
-* [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - [WIP] Git Blame plugin for Neovim written in Lua
+* [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 
 ### Uncategorized
 * [fssg](https://github.com/f-person/fssg) - Static site generator without written in Go without external dependencies
