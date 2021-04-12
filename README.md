@@ -1,5 +1,6 @@
-### Flutter packages
-* [protected_work](https://github.com/f-person/flutter_protected_work) - Remotely control usability of your app ([on pub.dev](https://pub.dev/packages/flutter_protected_work))
+### Libraries
+* [protected_work](https://github.com/f-person/flutter_protected_work) - Flutter package to remotely control usability of an app ([on pub.dev](https://pub.dev/packages/flutter_protected_work))
+* [lua-timeago](https://github.com/f-person/lua-timeago) - Simple Lua library library for displaying dates as relative time ago language 
 
 ### Neovim plugins
 * [Pubspec Assist](https://github.com/f-person/pubspec-assist-nvim) - Easily add dependencies to your Dart / Flutter project without leaving Neovim
