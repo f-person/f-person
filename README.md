@@ -8,7 +8,7 @@
 * [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 
 ### Uncategorized
-* [fssg](https://github.com/f-person/fssg) - Static site generator without written in Go without external dependencies
+* [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
 * [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
 * [tootfaver](https://github.com/f-person/tootfaver) - Mastodon bot which favourites new toots from local timeline in real-time
 * [bfj](https://github.com/f-person/bfj) - Generate `bson` tags for Go structs based on already existing `json` tags
