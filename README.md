@@ -3,7 +3,7 @@
 * [lua-timeago](https://github.com/f-person/lua-timeago) - Simple Lua library library for displaying dates as relative time ago language [![GitHub stars](https://img.shields.io/github/stars/f-person/lua-timeago?logo=github&style=plastic)](https://github.com/f-person/lua-timeago)
 
 ### Flutter & Dart
-* [protected_work](https://github.com/f-person/flutter_protected_work) - Flutter package to remotely control usability of an app pubspec-assist-nvim [![GitHub stars](https://img.shields.io/github/stars/f-person/flutter_protected_work?logo=github&style=plastic)](https://github.com/f-person/flutter_protected_work) [![Pub version](https://img.shields.io/pub/v/flutter_protected_work?logo=flutter&style=plastic)](https://pub.dev/packages/flutter_protected_work)
+* [protected_work](https://github.com/f-person/flutter_protected_work) - Flutter package to remotely control usability of an app [![GitHub stars](https://img.shields.io/github/stars/f-person/flutter_protected_work?logo=github&style=plastic)](https://github.com/f-person/flutter_protected_work) [![Pub version](https://img.shields.io/pub/v/flutter_protected_work?logo=flutter&style=plastic)](https://pub.dev/packages/flutter_protected_work)
 * [flutter_persistent_keyboard_height](https://github.com/f-person/flutter_persistent_keyboard_height) - Flutter package to get keyboard height [![GitHub stars](https://img.shields.io/github/stars/f-person/flutter_persistent_keyboard_height?logo=github&style=plastic)](https://github.com/f-person/flutter_persistent_keyboard_height) [![Pub version](https://img.shields.io/pub/v/flutter_persistent_keyboard_height.svg?logo=flutter&style=plastic)](https://pub.dev/packages/flutter_persistent_keyboard_height)
 
 ## Neovim plugins
