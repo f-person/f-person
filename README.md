@@ -10,6 +10,7 @@
 * [Pubspec Assist](https://github.com/f-person/pubspec-assist-nvim) - Easily add dependencies to your Dart / Flutter project without leaving Neovim [![GitHub stars](https://img.shields.io/github/stars/f-person/pubspec-assist-nvim?logo=github&style=plastic)](https://github.com/f-person/pubspec-assist-nvim)
 * [nvim-sort-dart-imports](https://github.com/f-person/nvim-sort-dart-imports) - Sort Dart imports in an organized way [![GitHub stars](https://img.shields.io/github/stars/f-person/nvim-sort-dart-imports?logo=github&style=plastic)](https://github.com/f-person/nvim-sort-dart-imports)
 * [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua [![GitHub stars](https://img.shields.io/github/stars/f-person/git-blame.nvim?logo=github&style=plastic)](https://github.com/f-person/git-blame.nvim)
+* [auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) -  A Neovim plugin for macOS that automatically changes the editor appearance based on system settings [![GitHub stars](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim?logo=github&style=plastic)](https://github.com/f-person/auto-dark-mode.nvim)
 
 ## Uncategorized
 * [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
