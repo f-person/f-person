@@ -12,6 +12,9 @@
 * [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua [![GitHub stars](https://img.shields.io/github/stars/f-person/git-blame.nvim?logo=github&style=plastic)](https://github.com/f-person/git-blame.nvim)
 * [auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) -  A Neovim plugin for macOS that automatically changes the editor appearance based on system settings [![GitHub stars](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim?logo=github&style=plastic)](https://github.com/f-person/auto-dark-mode.nvim)
 
+## Apps
+* [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
+
 ## Uncategorized
 * [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
 * [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
@@ -23,7 +26,6 @@
 * [Alias](https://github.com/f-person/alias) – An Alias app I started coding in livestreams in Flutter (currently abandoned) | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnuBrEEo0WxTidCx25h_Scpe)
 * [Since](https://github.com/f-person/since) – An app that displays how much time passed since (or is left until) dates/events | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnvCE6Sj3QCPtMnaGFE9gnnl)
 * [Analytics Service](https://github.com/f-person/analytics-server) – An analytics service I started making for Timeow as I didn't find anything easy to use with a REST API | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZntcDJciY2e_F6GvOwGJt4RS)
-* [Timeow](https://timeow.com) – A macOS menubar app that displays how long you've been actively using your computer. It also is configurable, and keeps track of active sessions and breaks
 
 ---
 
