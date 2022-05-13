@@ -24,7 +24,7 @@
 
 ## Work In Progress
 * [Alias](https://github.com/f-person/alias) – An Alias app I started coding in livestreams in Flutter (currently abandoned) | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnuBrEEo0WxTidCx25h_Scpe)
-* [Since](https://github.com/f-person/since) – An app that displays how much time passed since (or is left until) dates/events | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnvCE6Sj3QCPtMnaGFE9gnnl)
+* Happen – An app that displays how much time passed since (or is left until) dates/events | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnvCE6Sj3QCPtMnaGFE9gnnl)
 * [Analytics Service](https://github.com/f-person/analytics-server) – An analytics service I started making for Timeow as I didn't find anything easy to use with a REST API | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZntcDJciY2e_F6GvOwGJt4RS)
 
 ---
