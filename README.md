@@ -17,6 +17,7 @@
 
 ## Apps
 * [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
+* [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
 
 ## Uncategorized
 * [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
