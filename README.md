@@ -1,3 +1,8 @@
+## Apps
+* [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
+* [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
+* Happen – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
+
 ## Libraries
 ### Lua
 * [lua-timeago](https://github.com/f-person/lua-timeago) - Simple Lua library library for displaying dates as relative time ago language [![GitHub stars](https://img.shields.io/github/stars/f-person/lua-timeago?logo=github&style=plastic)](https://github.com/f-person/lua-timeago)
@@ -14,10 +19,6 @@
 * [nvim-sort-dart-imports](https://github.com/f-person/nvim-sort-dart-imports) - Sort Dart imports in an organized way [![GitHub stars](https://img.shields.io/github/stars/f-person/nvim-sort-dart-imports?logo=github&style=plastic)](https://github.com/f-person/nvim-sort-dart-imports)
 * [git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua [![GitHub stars](https://img.shields.io/github/stars/f-person/git-blame.nvim?logo=github&style=plastic)](https://github.com/f-person/git-blame.nvim)
 * [auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) -  A Neovim plugin for macOS that automatically changes the editor appearance based on system settings [![GitHub stars](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim?logo=github&style=plastic)](https://github.com/f-person/auto-dark-mode.nvim)
-
-## Apps
-* [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
-* [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
 
 ## Uncategorized
 * [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
