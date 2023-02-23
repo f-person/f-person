@@ -1,7 +1,7 @@
 ## Apps
+* [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
 * [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
 * [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
-* [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
 
 ## Libraries
 ### Lua
@@ -29,10 +29,9 @@
 * [dotfiles](https://github.com/f-person/dotfiles) - My configuration files
 
 ## Work In Progress
-* [Alias](https://github.com/f-person/alias) – An Alias app I started coding in livestreams in Flutter (currently abandoned) | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnuBrEEo0WxTidCx25h_Scpe)
-* Happen – An app that displays how much time passed since (or is left until) dates/events | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnvCE6Sj3QCPtMnaGFE9gnnl)
-* [Analytics Service](https://github.com/f-person/analytics-server) – An analytics service I started making for Timeow as I didn't find anything easy to use with a REST API | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZntcDJciY2e_F6GvOwGJt4RS)
+[DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities
+Sleepy – Mobile app for calculating the best time to wake up or go to bed
 
 ---
 
-You can also check my (mostly) film photos on my [Instagram](https://instagram.com/fperson__), work history on [LinkedIn](https://www.linkedin.com/in/aghakaryan), and my livestreams on [YouTube](https://www.youtube.com/channel/UCt4pU7zfrEghU9tIgamNzIg)
+[Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/channel/UCt4pU7zfrEghU9tIgamNzIg) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Bandcamp](https://bandcamp.com/fperson)
