@@ -2,7 +2,7 @@
 * [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
 * [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
 * [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
-* [hayatar](https://github.com/f-person/hayatar) – an attempt in building an Armenian keyboard for iOS that's usable and feels native. [![GitHub stars](https://img.shields.io/github/stars/f-person/hayatar?logo=github&style=plastic)](https://github.com/f-person/hayatar)
+* [hayatar](https://github.com/f-person/hayatar) – an attempt in building an Armenian keyboard for iOS that's usable and feels native [![GitHub stars](https://img.shields.io/github/stars/f-person/hayatar?logo=github&style=plastic)](https://github.com/f-person/hayatar)
 
 
 ## Libraries
