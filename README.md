@@ -1,7 +1,3 @@
-Want to support what I do?
-<br/>
-<a href="https://www.buymeacoffee.com/fperson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41"  width="174"></a>
-
 ## Apps
 * [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
 * [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
@@ -41,3 +37,9 @@ Want to support what I do?
 ---
 
 [Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/channel/UCt4pU7zfrEghU9tIgamNzIg) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Bandcamp](https://bandcamp.com/fperson)
+
+---
+
+Want to support what I do?
+<br/>
+<a href="https://www.buymeacoffee.com/fperson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41"  width="174"></a>
