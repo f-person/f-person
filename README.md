@@ -31,8 +31,8 @@
 * [dotfiles](https://github.com/f-person/dotfiles) - My configuration files
 
 ## Work In Progress
-[DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities
-Sleepy – Mobile app for calculating the best time to wake up or go to bed
+* [DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities
+* Sleepy – Mobile app for calculating the best time to wake up or go to bed
 
 ---
 
