@@ -4,6 +4,8 @@
 * [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
 * [hayatar](https://github.com/f-person/hayatar) – an attempt in building an Armenian keyboard for iOS that's usable and feels native [![GitHub stars](https://img.shields.io/github/stars/f-person/hayatar?logo=github&style=plastic)](https://github.com/f-person/hayatar)
 
+## Browser Extensions
+* [South Park Enhancer](https://github.com/f-person/parkview_enhancer#planned-features) – adds useful features for enjoying South Park on the official website
 
 ## Libraries
 ### Lua
