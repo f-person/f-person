@@ -5,7 +5,7 @@
 * [hayatar](https://github.com/f-person/hayatar) – an attempt in building an Armenian keyboard for iOS that's usable and feels native [![GitHub stars](https://img.shields.io/github/stars/f-person/hayatar?logo=github&style=plastic)](https://github.com/f-person/hayatar)
 
 ## Browser Extensions
-* [South Park Enhancer](https://github.com/f-person/parkview_enhancer#planned-features) – adds useful features for enjoying South Park on the official website
+* [South Park Enhancer](https://github.com/f-person/parkview_enhancer#planned-features) – adds useful features for enjoying South Park on the official website ![Chrome Web Store](https://img.shields.io/chrome-web-store/v/maaedhmkhgeojhcgohfgejelmbkfcppa?label=firefox&style=plastic) ![Mozilla Add-on](https://img.shields.io/amo/v/south-park-enhancer?label=firefox&style=plastic)
 
 ## Libraries
 ### Lua
