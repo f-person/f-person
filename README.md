@@ -26,15 +26,18 @@
 * [auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) -  A Neovim plugin for macOS that automatically changes the editor appearance based on system settings [![GitHub stars](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim?logo=github&style=plastic)](https://github.com/f-person/auto-dark-mode.nvim)
 
 ## Uncategorized
-* [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
-* [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
-* [tootfaver](https://github.com/f-person/tootfaver) - Mastodon bot which favourites new toots from local timeline in real-time
-* [bfj](https://github.com/f-person/bfj) - Generate `bson` tags for Go structs based on already existing `json` tags
-* [dotfiles](https://github.com/f-person/dotfiles) - My configuration files
+* [neovim config](https://github.com/f-person/nvim)
 
 ## Work In Progress
 * [DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities
 * Sleepy – Mobile app for calculating the best time to wake up or go to bed
+
+## Old stuff
+* [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
+* [dotfiles](https://github.com/f-person/dotfiles) - My old configuration files
+* [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
+* [tootfaver](https://github.com/f-person/tootfaver) - Mastodon bot which favourites new toots from local timeline in real-time
+* [bfj](https://github.com/f-person/bfj) - Generate `bson` tags for Go structs based on already existing `json` tags
 
 ---
 
