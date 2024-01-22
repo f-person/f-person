@@ -1,11 +1,10 @@
+[Website](https://fperson.dev) | [Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/@f-person) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Twitter](https://x.com/_fperson) | [Bandcamp](https://bandcamp.com/fperson)
+
 ## Apps
 * [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
 * [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
 * [Punycode Converter](https://github.com/f-person/punycode_converter) – a cross-platform mobile app for converting text to punycode and back [![GitHub stars](https://img.shields.io/github/stars/f-person/punycode_converter?logo=github&style=plastic)](https://github.com/f-person/punycode_converter)
-* [hayatar](https://github.com/f-person/hayatar) – an attempt in building an Armenian keyboard for iOS that's usable and feels native [![GitHub stars](https://img.shields.io/github/stars/f-person/hayatar?logo=github&style=plastic)](https://github.com/f-person/hayatar)
-
-## Browser Extensions
-* [South Park Enhancer](https://github.com/f-person/parkview_enhancer#planned-features) – adds useful features for enjoying South Park on the official website [![GitHub stars](https://img.shields.io/github/stars/f-person/parkview_enhancer?logo=github&style=plastic)](https://github.com/f-person/parkview_enhancer) [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/maaedhmkhgeojhcgohfgejelmbkfcppa?label=chrome&style=plastic)](https://chrome.google.com/webstore/detail/south-park-enhancer/maaedhmkhgeojhcgohfgejelmbkfcppa) [![Mozilla Add-on](https://img.shields.io/amo/v/south-park-enhancer?label=firefox&style=plastic)](https://addons.mozilla.org/firefox/addon/south-park-enhancer/)
+* [Hayatar](https://github.com/f-person/hayatar) – an Armenian keyboard for iOS that's designed to feel like a part of the system [![GitHub stars](https://img.shields.io/github/stars/f-person/hayatar?logo=github&style=plastic)](https://github.com/f-person/hayatar) [App Store](https://apps.apple.com/app/id6446906814) | [Website](https://hayatar.fperson.dev)
 
 ## Libraries
 ### Lua
@@ -29,7 +28,7 @@
 * [neovim config](https://github.com/f-person/nvim)
 
 ## Work In Progress
-* [DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities
+* Notespaces – a note-taking app with chat mechanics
 * Sleepy – Mobile app for calculating the best time to wake up or go to bed
 
 ## Old stuff
@@ -37,11 +36,8 @@
 * [dotfiles](https://github.com/f-person/dotfiles) - My old configuration files
 * [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
 * [tootfaver](https://github.com/f-person/tootfaver) - Mastodon bot which favourites new toots from local timeline in real-time
-* [bfj](https://github.com/f-person/bfj) - Generate `bson` tags for Go structs based on already existing `json` tags
-
----
-
-[Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/channel/UCt4pU7zfrEghU9tIgamNzIg) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Bandcamp](https://bandcamp.com/fperson)
+* [South Park Enhancer](https://github.com/f-person/parkview_enhancer#planned-features) – adds useful features for enjoying South Park on the official website -- got a DMCA takedown request from Paramount 🙄
+* [DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities from JSON
 
 ---
 
