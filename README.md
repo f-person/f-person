@@ -1,5 +1,7 @@
 [Website](https://fperson.dev) | [Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/@f-person) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Twitter](https://x.com/_fperson) | [Bandcamp](https://bandcamp.com/fperson)
 
+Currently fixing online dating @[breeze.social](https://breeze.social)
+
 ## Apps
 * [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
 * [Timeow](https://github.com/f-person/timeow-mac) – a macOS menu bar app that displays how long you've been actively using your computer. It is configurable, and keeps track of active sessions and breaks [![GitHub stars](https://img.shields.io/github/stars/f-person/timeow-mac?logo=github&style=plastic)](https://github.com/f-person/timeow-mac)
@@ -28,7 +30,8 @@
 * [neovim config](https://github.com/f-person/nvim)
 
 ## Work In Progress
-* Notespaces – a note-taking app with chat mechanics
+* Notespaces – Note-taking app with chat mechanics
+* [Code::Stats Menu Bar](https://github.com/f-person/codestats-menu) – Get Code::Stats stats on your macOS menu bar
 * Sleepy – Mobile app for calculating the best time to wake up or go to bed
 
 ## Old stuff
