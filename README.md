@@ -1,4 +1,4 @@
-[Website](https://fperson.dev) | [Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/@f-person) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Twitter](https://x.com/_fperson) | [Bandcamp](https://bandcamp.com/fperson)
+[Website](https://fperson.dev) | [Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/@f-person) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Twitter](https://x.com/_fperson) | [Bandcamp](https://bandcamp.com/fperson) | [Spotify](https://https://open.spotify.com/user/31ewr7zo4kkzxlem4kbsdyfp66tu)
 
 Currently fixing online dating @[breeze.social](https://breeze.social)
 
