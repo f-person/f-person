@@ -1,6 +1,6 @@
-[Website](https://fperson.dev) | [Blog](https://blog.fperson.dev) | [YouTube](https://www.youtube.com/@f-person) | [LinkedIn](https://www.linkedin.com/in/aghakaryan) | [Instagram](https://instagram.com/fpers0n) | [Twitter](https://x.com/_fperson) | [Bandcamp](https://bandcamp.com/fperson) | [Spotify](https://https://open.spotify.com/user/31ewr7zo4kkzxlem4kbsdyfp66tu)
+[my webpage](https://fperson.dev) | [youtube](https://www.youtube.com/@f-person) | [bandcamp](https://bandcamp.com/fperson) 
 
-Currently fixing online dating @[breeze.social](https://breeze.social)
+currently fixing online dating @[breeze.social](https://breeze.social)
 
 ## Apps
 * [Happen](https://www.producthunt.com/posts/happen) – Track time since and before momentous events [App Store](https://apps.apple.com/app/happen-life-events/id1621152079?ref=ghrm) | [Google Play](https://play.google.com/store/apps/details?id=dev.fperson.happen&ref=ghrm)
@@ -15,7 +15,6 @@ Currently fixing online dating @[breeze.social](https://breeze.social)
 ### Flutter & Dart
 * [flutter_persistent_keyboard_height](https://github.com/f-person/flutter_persistent_keyboard_height) - Flutter package to get keyboard height [![GitHub stars](https://img.shields.io/github/stars/f-person/flutter_persistent_keyboard_height?logo=github&style=plastic)](https://github.com/f-person/flutter_persistent_keyboard_height) [![Pub version](https://img.shields.io/pub/v/flutter_persistent_keyboard_height.svg?logo=flutter&style=plastic)](https://pub.dev/packages/flutter_persistent_keyboard_height) | [Live-Coding sessions](https://www.youtube.com/playlist?list=PLf_kgRiUZZnvRd9ZZgo9287mCevWuie7F)
 * [youtube_caption_scraper](https://github.com/f-person/youtube_caption_scraper) - A Dart package for parsing subtitles/captions from YouTube [![GitHub stars](https://img.shields.io/github/stars/f-person/youtube_caption_scraper?logo=github&style=plastic)](https://github.com/f-person/youtube_caption_scraper) [![Pub version](https://img.shields.io/pub/v/youtube_caption_scraper?logo=flutter&style=plastic)](https://pub.dev/packages/youtube_caption_scraper)
-* [flutter_top_blocked_bouncing_scroll_physics](https://github.com/qyre-ab/flutter_top_blocked_bouncing_scroll_physics) – Flutter scroll-physics which behaves like `BouncingScrollPhysics` but disables over-scroll on top [![GitHub stars](https://img.shields.io/github/stars/qyre-ab/flutter_top_blocked_bouncing_scroll_physics?logo=github&style=plastic)](https://github.com/qyre-ab/flutter_top_blocked_bouncing_scroll_physics) [![Pub version](https://img.shields.io/pub/v/flutter_top_blocked_bouncing_scroll_physics?logo=flutter&style=plastic)](https://pub.dev/packages/flutter_top_blocked_bouncing_scroll_physics)
 * [Toor](https://github.com/f-person/toor) – Compile-time safe and easy to manage service locators in Dart [![GitHub stars](https://img.shields.io/github/stars/f-person/toor?logo=github&style=plastic)](https://github.com/f-person/toor) [![Pub version](https://img.shields.io/pub/v/toor?logo=flutter&style=plastic)](https://pub.dev/packages/toor)
 * [keyboard_emoji_picker](https://github.com/f-person/keyboard_emoji_picker) – Flutter plugin for picking emojis using device's keyboard [![GitHub stars](https://img.shields.io/github/stars/f-person/keyboard_emoji_picker?logo=github&style=plastic)](https://github.com/f-person/keyboard_emoji_picker) [![Pub version](https://img.shields.io/pub/v/keyboard_emoji_picker?logo=flutter&style=plastic)](https://pub.dev/packages/keyboard_emoji_picker)
 
@@ -29,21 +28,10 @@ Currently fixing online dating @[breeze.social](https://breeze.social)
 ## Uncategorized
 * [neovim config](https://github.com/f-person/nvim)
 
-## Work In Progress
-* Notespaces – Note-taking app with chat mechanics
-* [Code::Stats Menu Bar](https://github.com/f-person/codestats-menu) – Get Code::Stats stats on your macOS menu bar
-* Sleepy – Mobile app for calculating the best time to wake up or go to bed
-
-## Old stuff
+## Old stuff I liked
 * [fssg](https://github.com/f-person/fssg) - Static site generator written in Go without any external dependencies
 * [dotfiles](https://github.com/f-person/dotfiles) - My old configuration files
 * [diadon](https://github.com/f-person/diadon) - CLI for posting on Mastodon and diaspora*
 * [tootfaver](https://github.com/f-person/tootfaver) - Mastodon bot which favourites new toots from local timeline in real-time
 * [South Park Enhancer](https://github.com/f-person/parkview_enhancer#planned-features) – adds useful features for enjoying South Park on the official website -- got a DMCA takedown request from Paramount 🙄
 * [DTO Gen](https://github.com/dtogen/dtogen) – Generate Dart DTOs and entities from JSON
-
----
-
-Want to support what I do?
-<br/>
-<a href="https://www.buymeacoffee.com/fperson" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41"  width="174"></a>
