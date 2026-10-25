@@ -1,4 +1,3 @@
-[my webpage](https://fperson.dev) | [youtube](https://www.youtube.com/@f-person) | [bandcamp](https://bandcamp.com/fperson) 
 
 currently fixing online dating @[breeze.social](https://breeze.social)
 
